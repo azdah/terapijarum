@@ -1,4 +1,4 @@
-importScripts('/clients-terapijarum.js');
+importScripts('https://rawcdn.githack.com/azdah/terapijarum/653f69acf0264a7ac0c90be373d9a2ce02605769/clients-terapijarum.js');
 self.addEventListener('install', function(e) {
 e.waitUntil(
 caches.open('ramaibeud').then(function(cache) {
