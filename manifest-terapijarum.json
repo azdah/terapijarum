@@ -1,7 +1,7 @@
 {
   "name": "Terapi Jarum",
-  "short_name": "TerapiJarum",
-  "start_url": "www.terapijarum.com",
+  "short_name": "TerapiJarum.com",
+  "start_url": "https://www.terapijarum.com",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#01579B",
@@ -35,5 +35,4 @@
     "sizes": "512x512",
     "type": "image/png"
   }],
-  "start_url": "/"
 }
