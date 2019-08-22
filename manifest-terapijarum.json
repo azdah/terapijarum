@@ -1,1 +1,38 @@
-{ "name": "Terapi Jarum", "short_name": "TerapiJarum.com", "start_url": "https://www.terapijarum.com", "display": "standalone", "background_color": "#fff", "theme_color": "#01579B", "description": "Situs tentang artikel pengobatan tradisional, seperti akupunktur, akupresur, bekam, herba, fashdu, pijat refleksi dan aplikasi pengobatan berbasis android", "icons": [{ "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s48/logo-terapijarum-2019.png", "sizes": "48x48", "type": "image/png" }, { "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s72/logo-terapijarum-2019.png", "sizes": "72x72", "type": "image/png" }, { "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s96/logo-terapijarum-2019.png", "sizes": "96x96", "type": "image/png" }, { "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s144/logo-terapijarum-2019.png", "sizes": "144x144", "type": "image/png" }, { "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s168/logo-terapijarum-2019.png", "sizes": "168x168", "type": "image/png" }, { "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s192/logo-terapijarum-2019.png", "sizes": "192x192", "type": "image/png" }, { "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s512/logo-terapijarum-2019.png", "sizes": "512x512", "type": "image/png" }] }
+{
+  "name": "Terapi Jarum",
+  "short_name": "TerapiJarum.com",
+  "start_url": "https://www.terapijarum.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#01579B",
+  "description": "Situs tentang artikel pengobatan tradisional, seperti akupunktur, akupresur, bekam, herba, fashdu, pijat refleksi dan aplikasi pengobatan berbasis android",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s48/logo-terapijarum-2019.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s72/logo-terapijarum-2019.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s96/logo-terapijarum-2019.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s144/logo-terapijarum-2019.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s168/logo-terapijarum-2019.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s192/logo-terapijarum-2019.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rHWQ5JFpDmI/XVK6rEwkYHI/AAAAAAAAHME/Or-mXjRdmGok95xPU2NlBqvsWky5ooX5gCEwYBhgL/s512/logo-terapijarum-2019.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
