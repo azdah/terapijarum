@@ -9,14 +9,14 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 //# sourceMappingURL=OneSignalSDK.js.map
 //onesignal2
 var OneSignal=window.OneSignal||[];OneSignal.push(function(){OneSignal.init({appId:"0158ab51-e76b-406d-87bc-cc3737f489a2",})})
-<!--adsense otomatis-->
+//adsense otomatis
 (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-2829059760225284", enable_page_level_ads: true});
-<!--analytic-->
+//analytic
 var LLJSbangjarwo=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&LLJSbangjarwo===!1||0!=document.body.scrollTop&&LLJSbangjarwo===!1)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=UA-30731523-3";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}(),LLJSbangjarwo=!0)},!0);
  window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-30731523-3');
-<!--clean url ?m=1-->
+//clean url ?m=1
 var uri = window.location.toString(); if (uri.indexOf("%3D","%3D") > 0) { var clean_uri = uri.substring(0, uri.indexOf("%3D")); window.history.replaceState({}, document.title, clean_uri);} var uri = window.location.toString(); if (uri.indexOf("%3D%3D","%3D%3D") > 0) { var clean_uri = uri.substring(0, uri.indexOf("%3D%3D")); window.history.replaceState({}, document.title, clean_uri);} var uri = window.location.toString(); if (uri.indexOf("&m=1","&m=1") > 0) { var clean_uri = uri.substring(0, uri.indexOf("&m=1")); window.history.replaceState({}, document.title, clean_uri); } var uri = window.location.toString(); if (uri.indexOf("?m=1","?m=1") > 0) { var clean_uri = uri.substring(0, uri.indexOf("?m=1")); window.history.replaceState({}, document.title, clean_uri);};
-<!--antiselect-->
+//antiselect
 if (typeof document.onselectstart!="undefined") {document.onselectstart=new Function ("return false");}else{document.onmousedown=new Function ("return false");document.onmouseup=new Function ("return true");}
 //CookieConsent
 window.addEventListener("load",function(){window.cookieconsent.initialise({"palette":{"popup":{"background":"#1d8a8a"},"button":{"background":"#ff8e1c","text":"#ffffff"}},"position":"bottom-right","content":{"message":"Situs Terapijarum.com  menggunakan cookie untuk memastikan Anda mendapatkan pengalaman terbaik di situs ini. Klik OK!","dismiss":"OK!","link":"Tentang Kebijakan Cookie","href":"/p/kebijakan-cookie.html"}})})
