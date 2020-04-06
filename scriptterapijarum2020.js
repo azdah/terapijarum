@@ -4,7 +4,7 @@ var _0x22dd=['bW9kX2Fk','cHMtdmVydGljYWwtYWRz','cm93MkFkQ29udGFpbmVy','c3lzdGVtY
 var lazyadsense2 = false;
 window.addEventListener("scroll", function(){
 if ((document.documentElement.scrollTop != 0 && lazyadsense2 === false) || (document.body.scrollTop != 0 && lazyadsense2 === false)) {
-(function() { var ad = document.createElement('script'); ad.setAttribute('data-ad-client','ca-pub-2829059760225284'); ad.async = true; ad.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'; var sc = document.getElementsByTagName('script')[0]; sc.parentNode.insertBefore(ad, sc); })();
+(function() { var ad = document.createElement('script'); ad.setAttribute('data-ad-client','ca-pub-2829059760225284','enable_page_level_ads','overlays:{bottom:true}'); ad.async = true; ad.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'; var sc = document.getElementsByTagName('script')[0]; sc.parentNode.insertBefore(ad, sc); })();
 lazyadsense2 = true;
   }
 }, true);
