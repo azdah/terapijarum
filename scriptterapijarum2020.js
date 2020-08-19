@@ -1,10 +1,3 @@
-//analytic
-function downloadJSAtOnload(){var d=document.createElement("script");d.src="https://www.googletagmanager.com/gtag/js?id=UA-174905444-1",document.body.appendChild(d)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-174905444-1');
-
 //linksumberotomatis
 function Getcopylink(){var body=document.getElementsByTagName('body')[0];var selection_area;selection_area=window.getSelection();var copyright_content="<br /><br /> -----> Read more at: "+document.location.href+" &copy TerapiJarum dot Com";var copyingtext=selection_area+copyright_content;var newdiv=document.createElement('div');newdiv.style.position='absolute';newdiv.style.left='-99999px';body.appendChild(newdiv);newdiv.innerHTML=copyingtext;selection_area.selectAllChildren(newdiv);window.setTimeout(function(){body.removeChild(newdiv)},0)}
 document.oncopy=Getcopylink
